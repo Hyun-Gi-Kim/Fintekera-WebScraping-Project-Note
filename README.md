@@ -3,8 +3,10 @@
 # Fintekera Scraping Project
 
 ## Overview
+All of the contents are in the private repository.
+I can show a few contents for a while if a hiring manager asks me to look around it.
 
-This is a private repository for the Fintekera project. It contains code and resources developed exclusively for Fintekera and is subject to a Non-Disclosure Agreement (NDA). Only authorized team members and 
+This is a public repository for the Fintekera project. It contains code and resources developed exclusively for Fintekera and is subject to a Non-Disclosure Agreement (NDA). Only authorized team members and 
 individuals under the NDA should access and use the contents of this repository.
 
 **Confidentiality**: This repository and its contents are confidential. By accessing this repository, you agree to abide by the terms of the NDA signed with [Fintekera and to protect the confidentiality of 
