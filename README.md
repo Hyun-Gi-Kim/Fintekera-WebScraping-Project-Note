@@ -4,7 +4,10 @@
 
 ## Overview
 All of the contents are in the private repository due to confidentiality.
-I can only share the output samples and our plan. 
+I can only share the OUTPUT Samples, for example, "all_jobs_Adeccousa_2023-12-01_12-07-13.csv".
+2023-12-03 means the date of scraping.
+"12-07-13" means the time of scraping, 12:07am 13 sec.
+
 I would show a few contents for a short time if someone asks me to look around it.
 
 This is a public repository for the Fintekera project. It contains code and resources developed exclusively for Fintekera and is subject to a Non-Disclosure Agreement (NDA). Only authorized team members and 
